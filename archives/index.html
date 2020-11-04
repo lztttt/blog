@@ -1,129 +1,142 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" >
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>lzt的website</title>
+<link rel="shortcut icon" href="https://lztttt.github.io/lztttt.gihub.io//favicon.ico?v=1604489642659">
+<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+<link href="" rel="stylesheet">
+<link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://lztttt.github.io/lztttt.gihub.io//media/css/prism-.css">
+<style>
+    @font-face {
+        font-weight: normal;
+        font-style: normal;
+        font-family: 'charganolton';
+        src: url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/Charganolton.ttf');
+    }
+    @font-face {
+        font-weight: normal;
+        font-style: normal;
+        font-family: 'JetBrainsMono';
+        src: url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Regular.eot');
+        src: url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Regular.woff2') format('woff2'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Regular.woff') format('woff'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Regular.ttf') format('truetype');
+    }
 
-<title>文章归档 | lzt的website</title>
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lztttt.github.io/lztttt.gihub.io//favicon.ico?v=1604484505122">
+    @font-face {
+        font-weight: bold;
+        font-style: normal;
+        font-family: 'JetBrainsMono';
+        src: url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Bold.eot');
+        src: url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Bold.woff2') format('woff2'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Bold.woff') format('woff'),
+        url('https://lztttt.github.io/lztttt.gihub.io//media/fonts/JetBrainsMono-Bold.ttf') format('truetype');
+    }
+</style>
 <link rel="stylesheet" href="https://lztttt.github.io/lztttt.gihub.io//styles/main.css">
 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+</head>
+<body>
 
-
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-
-
-
-    <meta name="description" content="lzt">
-  </head>
-  <body>
-    <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://lztttt.github.io/lztttt.gihub.io/">
-        <img src="https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604484505122" class="site-logo">
-        <h1 class="site-title">lzt的website</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
-    </div>
-    <div>
-      
-        
-          <a href="https://lztttt.github.io/lztttt.gihub.io/" class="site-nav">
-            首页
-          </a>
-        
-      
-        
-          <a href="https://lztttt.github.io/lztttt.gihub.io/post/guan-yu" class="site-nav">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      lzt
-    </div>
-    <div class="site-footer">
-      加载超慢，慢慢等ヽ(`Д´)ﾉ
- | <a class="rss" href="https://lztttt.github.io/lztttt.gihub.io//atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
-
-
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          
-
-          <h2 class="archives-title">文章归档</h2>
-          <div class="archives-container">
-            
-              <h2 class="year" data-aos="fade-in" data-aos-delay="500">2020</h2>
-              
-                
-                  <article class="post">
-                    <a href="https://lztttt.github.io/lztttt.gihub.io/post/11-4-zuo-ye/">
-                      <h2 class="post-title">
-                        11-4 作业
-                      </h2>
-                    </a>
-                  </article>
-                
-              
-            
-          </div>
-
-          <div class="pagination-container">
-  
-  
-</div>
-
+<div class="header">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="https://lztttt.github.io/lztttt.gihub.io/">
+                <img src="https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604489642659" width="30" height="30"
+                     class="d-inline-block align-top"
+                     alt="">
+                lzt的website
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    
+                        
+                            <li class="nav-item active">
+                                <a class="nav-link" href="https://lztttt.github.io/lztttt.gihub.io/"
+                                
+                                >首页</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="nav-item active">
+                                <a class="nav-link" href="https://lztttt.github.io/lztttt.gihub.io/post/guan-yu"
+                                
+                                >关于</a>
+                            </li>
+                        
+                    
+                </ul>
+            </div>
         </div>
-      </div>
-    </div>
+    </nav>
+</div>
+<div id="content" class="container">
+    
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
+<div class="archives-container main-container">
+    <ul class="timeline">
+        
+            <li>
+                <h3 class="year">
+                    2020
+                </h3>
+                <ul class="year-wrapper">
+                    
+                        
+                            <li>
+                                <span class="date">2020-11-04</span>
+                                <a class="title" href="https://lztttt.github.io/lztttt.gihub.io/post/11-4-zuo-ye/">
+                                    <span>11-4 作业</span>
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
 
-AOS.init();
+            </li>
+        
+    </ul>
+</div>
+    
+    <div class="site-footer">
+    加载超慢，慢慢等ヽ(`Д´)ﾉ
+ | Theme <a href="//github.com/violetfreesia/gridea-theme-Violet" target="_blank">Violet</a>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
+    <script src="https://lztttt.github.io/lztttt.gihub.io//media/js/main.js"></script>
 
 
 
 
 
 
-  </body>
+
+
+
+
+
+
+
+
+
+</div>
+</body>
 </html>
