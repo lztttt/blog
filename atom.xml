@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/lztttt.gihub.io/</id>
-    <title>lzt的webside</title>
-    <updated>2020-11-04T09:48:30.480Z</updated>
+    <title>lzt的website</title>
+    <updated>2020-11-04T10:08:26.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/lztttt.gihub.io/"/>
     <link rel="self" href="https://lztttt.github.io/lztttt.gihub.io/atom.xml"/>
     <subtitle>lzt</subtitle>
     <logo>https://lztttt.github.io/lztttt.gihub.io/images/avatar.png</logo>
     <icon>https://lztttt.github.io/lztttt.gihub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, lzt的webside</rights>
+    <rights>All rights reserved 2020, lzt的website</rights>
     <entry>
         <title type="html"><![CDATA[11-4 作业]]></title>
         <id>https://lztttt.github.io/lztttt.gihub.io/post/11-4-zuo-ye/</id>
