@@ -4,11 +4,11 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>lzt的website</title>
-<link rel="shortcut icon" href="https://lztttt.github.io/lztttt.gihub.io//favicon.ico?v=1604490066332">
+<link rel="shortcut icon" href="https://lztttt.github.io/lztttt.gihub.io//favicon.ico?v=1604490761690">
 <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
-<link href="" rel="stylesheet">
+<link href="//at.alicdn.com/t/font_1806605_dyr0fqhe85.css" rel="stylesheet">
 <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://lztttt.github.io/lztttt.gihub.io//media/css/prism-.css">
+<link rel="stylesheet" href="https://lztttt.github.io/lztttt.gihub.io//media/css/prism-0.css">
 <style>
     @font-face {
         font-weight: normal;
@@ -46,11 +46,14 @@
 </head>
 <body>
 
+    <canvas id="canvas">
+</canvas>
+
 <div class="header">
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
             <a class="navbar-brand" href="https://lztttt.github.io/lztttt.gihub.io/">
-                <img src="https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604490066332" width="30" height="30"
+                <img src="https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604490761690" width="30" height="30"
                      class="d-inline-block align-top"
                      alt="">
                 lzt的website
@@ -118,7 +121,7 @@
             
 <div class="id_card i-card">
     <div class="id_card-avatar"
-         style="background-image: url(https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604490066332)">
+         style="background-image: url(https://lztttt.github.io/lztttt.gihub.io//images/avatar.png?v=1604490761690)">
     </div>
     <h1 class="id_card-title">
         lzt的website
@@ -135,15 +138,82 @@
     <div class="id_card-sns">
          
         
+            <a href="//github.com/violetfreesia" target="_blank" title="github"><span
+                        class="vf-icons vf-icon-github"></span></a>
+        
+         
+        
+                <a href="https://lztttt.github.io/lztttt.gihub.io//atom.xml" target="_blank" title="RSS"><span class="vf-icons vf-icon-rss"></span></a>
+        
     </div>
 </div>
             
+    <div class="bulletin-board">
+        <div class="bulletin-board-title">
+            <span class="vf-icons vf-icon-laba" style="margin-right: 5px;color: #ed4014"></span>公告
+        </div>
+        <div class="bulletin-board-content">
+            就是有点慢
+        </div>
+    </div>
+
             
+                <div class="d-none d-lg-block shadow-sm" style="margin-top: 30px;background-color:#fff; border-radius: 10px;padding-top: 20px; text-align: center;">
+    <h5>标签 TOP20</h5>
+<div id="tags-chart"
+    style="height: 200px; width: 100%;">
+</div>
+</div>
+<script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.7.0/echarts.min.js"></script>
+
+<script>
+    var temp = [];
+    let tagsChart = echarts.init(document.getElementById('tags-chart'));
+    let tagsOption = {
+        title: {
+            text: '',
+            top: 0,
+            x: 'center'
+        },
+        tooltip: {
+            trigger: 'item',
+            formatter: "{a} <br/>{b} : {c} ({d}%)"
+        },
+        series: [
+            {
+                name: 'tag',
+                type: 'pie',
+                radius: '50%',
+                color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
+                data: temp,
+                itemStyle: {
+                    emphasis: {
+                        shadowBlur: 10,
+                        shadowOffsetX: 0,
+                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                    }
+                }
+            }
+        ]
+    };
+    tagsChart.setOption(tagsOption);
+</script>
+            
+            
+                <div class="site-stats-card shadow-sm">
+    <h6>访问统计</h6>
+    <div id="busuanzi_container_site_uv">
+        <span>本站访客数 : </span><span id="busuanzi_value_site_uv"></span>
+    </div>
+    <div id="busuanzi_container_site_pv">
+        <span>本站总访问量 : </span><span id="busuanzi_value_site_pv"></span>
+    </div>
+</div>
             
         </div>
     </div>
     <div class="site-footer">
-    加载超慢，慢慢等ヽ(`Д´)ﾉ
+    
  | Theme <a href="//github.com/violetfreesia/gridea-theme-Violet" target="_blank">Violet</a>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
@@ -151,8 +221,11 @@
         crossorigin="anonymous"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-    <script src="https://lztttt.github.io/lztttt.gihub.io//media/js/main.js"></script>
+    <script src="https://lztttt.github.io/lztttt.gihub.io//media/js/TweenMax.min.js"></script>
 
+
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+    </script>
 
 
 
