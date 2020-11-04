@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/lztttt.gihub.io/</id>
     <title>lzt的webside</title>
-    <updated>2020-11-03T13:50:08.686Z</updated>
+    <updated>2020-11-04T09:48:30.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/lztttt.gihub.io/"/>
     <link rel="self" href="https://lztttt.github.io/lztttt.gihub.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://lztttt.github.io/lztttt.gihub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的webside</rights>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://lztttt.github.io/lztttt.gihub.io/post/1/</id>
-        <link href="https://lztttt.github.io/lztttt.gihub.io/post/1/">
+        <title type="html"><![CDATA[11-4 作业]]></title>
+        <id>https://lztttt.github.io/lztttt.gihub.io/post/11-4-zuo-ye/</id>
+        <link href="https://lztttt.github.io/lztttt.gihub.io/post/11-4-zuo-ye/">
         </link>
-        <updated>2020-11-03T12:05:10.000Z</updated>
-        <content type="html"><![CDATA[<p>hi <img src="https://lztttt.github.io/lztttt.gihub.io//post-images/1604405123502.jpg" alt="" loading="lazy"></p>
+        <updated>2020-11-04T09:46:20.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://lztttt.github.io/lztttt.gihub.io//post-images/1604483256448.jpg" alt="" loading="lazy">✒️</p>
 ]]></content>
     </entry>
 </feed>
