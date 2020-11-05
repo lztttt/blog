@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head><meta charset="UTF-8">
@@ -44,6 +43,7 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
+    
 </head>
 <body>
 
@@ -88,9 +88,76 @@
     </nav>
 </div>
 <div id="content" class="container">
-    <div class="tags-content">
-        <h2><span class="vf-icons vf-icon-tags"></span>文章标签</h2>
-        <div class="row">
+    <div class="row">
+        <div class="col-sm-100 col-lg-9">
+            <div class="shadow-sm post-detail">
+                <article class="post i-card">
+                    <h2 class="post-title">
+                        英语听力1600词
+                    </h2>
+                    <div class="post-info">
+                        <time class="post-time">2020-11-05</time>
+                        
+                    </div>
+                    
+                    <div class="post-content">
+                        <p><img src="https://lztttt.github.io/blog//post-images/1604575069057.jpg" alt="" loading="lazy"><br>
+<img src="https://lztttt.github.io/blog//post-images/1604575075084.jpg" alt="" loading="lazy"><br>
+<img src="https://lztttt.github.io/blog//post-images/1604575079974.jpg" alt="" loading="lazy"></p>
+
+                    </div>
+                </article>
+            </div>
+            <div class="row">
+                <div class="next-post col-6">
+                    
+                </div>
+                <div class="next-post col-6">
+                    
+                        <div class="next">下一篇</div>
+                        <a href="https://lztttt.github.io/blog/post/11-5-zuo-ye/">
+                            <h3 class="post-title">
+                                11-5作业
+                            </h3>
+                        </a>
+                    
+                </div>
+            </div>
+            
+        </div>
+        <div class="d-none d-lg-block col-lg-3">
+            
+                <div class="toc-card i-card shadow-sm sticky-top">
+    <div class="toc-title i-card-title">目录</div>
+    <div class="toc-content">
+        
+    </div>
+    <script>
+        function locateCatelogList() {
+            /*获取文章目录集合,可通过:header过滤器*/
+            var alis = $('.post-content :header');
+            /*获取侧边栏目录列表集合**/
+            var sidebar_alis = $('.markdownIt-TOC a');
+            /*获取滚动条到顶部的距离*/
+            var scroll_height = $(window).scrollTop();
+            for (var i = 0; i < alis.length; i++) {
+                /*获取锚点集合中的元素分别到顶点的距离*/
+                var a_height = $(alis[i]).offset().top-150;
+                if (a_height < scroll_height) {
+                    /*高亮显示*/
+                    sidebar_alis.removeClass('on');
+                    $(sidebar_alis[i]).addClass('on');
+                }
+            }
+        }
+
+        $(function () {
+            /*绑定滚动事件 */
+            $(window).bind('scroll', locateCatelogList);
+        });
+    </script>
+</div>
+
             
         </div>
     </div>
@@ -123,5 +190,11 @@
 
 
 </div>
+
+
+    <script>
+        $('pre').addClass('line-numbers')
+    </script>
+
 </body>
 </html>

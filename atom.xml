@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-05T09:55:48.638Z</updated>
+    <updated>2020-11-05T11:18:06.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -11,22 +11,23 @@
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的website</rights>
     <entry>
+        <title type="html"><![CDATA[英语听力1600词]]></title>
+        <id>https://lztttt.github.io/blog/post/ying-yu-ting-li-1600-ci/</id>
+        <link href="https://lztttt.github.io/blog/post/ying-yu-ting-li-1600-ci/">
+        </link>
+        <updated>2020-11-05T11:17:19.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://lztttt.github.io/blog//post-images/1604575069057.jpg" alt="" loading="lazy"><br>
+<img src="https://lztttt.github.io/blog//post-images/1604575075084.jpg" alt="" loading="lazy"><br>
+<img src="https://lztttt.github.io/blog//post-images/1604575079974.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[11-5作业]]></title>
         <id>https://lztttt.github.io/blog/post/11-5-zuo-ye/</id>
         <link href="https://lztttt.github.io/blog/post/11-5-zuo-ye/">
         </link>
         <updated>2020-11-05T09:54:01.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lztttt.github.io/blog//post-images/1604570062377.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11-4 作业]]></title>
-        <id>https://lztttt.github.io/blog/post/11-4-zuo-ye/</id>
-        <link href="https://lztttt.github.io/blog/post/11-4-zuo-ye/">
-        </link>
-        <updated>2020-11-04T09:46:20.000Z</updated>
-        <content type="html"><![CDATA[<p>物理作业:新发的两张篇子昨天剩的不做<br>
-<img src="https://lztttt.github.io/blog//post-images/1604492702895.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
