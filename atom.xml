@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-09T13:37:22.185Z</updated>
+    <updated>2020-11-12T12:07:53.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://lztttt.github.io/blog/images/avatar.png</logo>
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的website</rights>
-    <entry>
-        <title type="html"><![CDATA[11-6作业]]></title>
-        <id>https://lztttt.github.io/blog/post/11-6-zuo-ye/</id>
-        <link href="https://lztttt.github.io/blog/post/11-6-zuo-ye/">
-        </link>
-        <updated>2020-11-06T09:43:37.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://lztttt.github.io/blog//post-images/1604655872240.jpg" alt="" loading="lazy"><br>
-<img src="https://s.aigei.com/src/img/gif/25/253b252fee564da9816b2bcfdab54274.gif?imageMogr2/auto-orient/thumbnail/!97x97r/gravity/Center/crop/97x97/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8aktGcsD07jenn8PqWbGDnWLK_M=" alt="show" /></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[英语听力1600词]]></title>
         <id>https://lztttt.github.io/blog/post/ying-yu-ting-li-1600-ci/</id>
