@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-14T02:16:27.425Z</updated>
+    <updated>2020-11-14T03:11:43.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lztttt.github.io/blog/images/avatar.png</logo>
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的website</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://lztttt.github.io/blog/post/ce-shi/</id>
+        <link href="https://lztttt.github.io/blog/post/ce-shi/">
+        </link>
+        <updated>2020-11-14T03:10:37.000Z</updated>
+        <content type="html"><![CDATA[<p>gitalk</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[历史九下课件]]></title>
         <id>https://lztttt.github.io/blog/post/li-shi-jiu-xia-ke-jian/</id>
@@ -19,42 +28,5 @@
         <content type="html"><![CDATA[<p><a href="https://wwa.lanzous.com/ih1qui51i5c" target="_blank">下载地址</a><br>
 <img src="https://lztttt.github.io/blog//post-images/1605185928646.png" alt="" loading="lazy"></p>
 <img src="https://s.aigei.com/src/img/gif/25/253b252fee564da9816b2bcfdab54274.gif?imageMogr2/auto-orient/thumbnail/!97x97r/gravity/Center/crop/97x97/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8aktGcsD07jenn8PqWbGDnWLK_M=" alt="show" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英语听力1600词]]></title>
-        <id>https://lztttt.github.io/blog/post/ying-yu-ting-li-1600-ci/</id>
-        <link href="https://lztttt.github.io/blog/post/ying-yu-ting-li-1600-ci/">
-        </link>
-        <updated>2020-11-05T11:17:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://s.aigei.com/src/img/gif/25/253b252fee564da9816b2bcfdab54274.gif?imageMogr2/auto-orient/thumbnail/!97x97r/gravity/Center/crop/97x97/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8aktGcsD07jenn8PqWbGDnWLK_M=" alt="show" />
-<p><img src="https://lztttt.github.io/blog//post-images/1604575069057.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575075084.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575079974.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575168804.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575175795.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575180130.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575184878.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575189385.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575194420.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575199663.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575212932.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575220726.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575226817.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575233201.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575239403.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575245872.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575299699.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575305833.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575312599.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575318458.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575324896.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575332306.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575339886.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575346958.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575354114.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575361055.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575372459.jpg" alt="" loading="lazy"><br>
-<img src="https://lztttt.github.io/blog//post-images/1604575377622.jpg" alt="" loading="lazy"></p>
-]]></content>
     </entry>
 </feed>
