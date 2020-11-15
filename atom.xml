@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-15T06:32:28.623Z</updated>
+    <updated>2020-11-15T06:37:06.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -11,12 +11,13 @@
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的website</rights>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
+        <title type="html"><![CDATA[评论测试]]></title>
         <id>https://lztttt.github.io/blog/post/ce-shi/</id>
         <link href="https://lztttt.github.io/blog/post/ce-shi/">
         </link>
         <updated>2020-11-14T03:10:37.000Z</updated>
-        <content type="html"><![CDATA[<p>gitalk</p>
+        <content type="html"><![CDATA[<p>✖️gitalk</p>
+<p>Valine</p>
 ]]></content>
     </entry>
     <entry>
