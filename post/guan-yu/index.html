@@ -4,7 +4,7 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>lzt的website</title>
-<link rel="shortcut icon" href="https://lztttt.github.io/blog//favicon.ico?v=1605327689558">
+<link rel="shortcut icon" href="https://lztttt.github.io/blog//favicon.ico?v=1605421904923">
 <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 <link href="//at.alicdn.com/t/font_1806605_dyr0fqhe85.css" rel="stylesheet">
 <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
@@ -43,6 +43,8 @@
 </style>
 <link rel="stylesheet" href="https://lztttt.github.io/blog//styles/main.css">
 
+    <script src="https://cdn.bootcdn.net/ajax/libs/valine/1.4.14/Valine.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
@@ -58,7 +60,7 @@
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
             <a class="navbar-brand" href="https://lztttt.github.io/blog/">
-                <img src="https://lztttt.github.io/blog//images/avatar.png?v=1605327689558" width="30" height="30"
+                <img src="https://lztttt.github.io/blog//images/avatar.png?v=1605421904923" width="30" height="30"
                      class="d-inline-block align-top"
                      alt="">
                 lzt的website
@@ -117,21 +119,7 @@ mail-1975677818@qq.com<br>
                     </div>
                 </article>
                 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-<div id="gitalk-container"></div>     <script type="text/javascript">
-    var gitalk = new Gitalk({
 
-    // gitalk的主要参数
-        clientID: 'a0c7494fc6e38eb5eca0',
-        clientSecret: '2cc7be3ad07e28349f9eb8aa5112b89bdf5e6393',
-        repo: 'lztttt.github.io',
-        owner: 'lztttt',
-        admin: ['lztttt'],
-        id:window.location.pathname,
-
-    });
-    gitalk.render('gitalk-container');
-</script> 
             </div>
             <div class="row">
                 <div class="next-post col-6">
@@ -141,6 +129,8 @@ mail-1975677818@qq.com<br>
                     
                 </div>
             </div>
+            
+                <div id="valinecomments"></div>
             
         </div>
         <div class="d-none d-lg-block col-lg-3">
@@ -208,6 +198,23 @@ mail-1975677818@qq.com<br>
 
 
 </div>
+
+    <script>
+    new Valine({
+        el: '#valinecomments',
+        appId: 'De7eAGzOi8c2bBJPU7Ujq3Tu-MdYXbMMI',
+        appKey: 'EzzkgeM9e7VvLG4AMaTMn8Ag',
+        placeholder: '畅所欲言吧！',
+        pageSize: 20,
+        lang: 'zh-CN',
+        
+        
+        requiredFields: ['nick']
+    })
+</script>
+    <script>
+        $('#valinecomments .vpower').remove();
+    </script>
 
 
     <script>
