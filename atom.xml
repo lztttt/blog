@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-16T11:59:29.211Z</updated>
+    <updated>2020-11-16T12:46:56.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -10,20 +10,6 @@
     <logo>https://lztttt.github.io/blog/images/avatar.png</logo>
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lzt的website</rights>
-    <entry>
-        <title type="html"><![CDATA[(･ω･)ﾉ]]></title>
-        <id>https://lztttt.github.io/blog/post/ono/</id>
-        <link href="https://lztttt.github.io/blog/post/ono/">
-        </link>
-        <updated>2020-11-16T11:48:40.000Z</updated>
-        <content type="html"><![CDATA[<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://lztttt.github.io/Media-files/zwjs.mp3">
-      </audio>
-<video id="video" controls="" preload="none" poster="https://lztttt.github.io/Media-files/xbd%20(2).mp4">
-<source id="mp4" src="https://lztttt.github.io/Media-files/xbd%20(2).mp4" type="video/mp4">
-</video>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[评论测试]]></title>
         <id>https://lztttt.github.io/blog/post/ce-shi/</id>
@@ -56,5 +42,15 @@ MarkDown 全语法支持<br>
 ![图片描述](https://lztttt.github.io/Media-files/BurrowingOwl_ZH-CN7730300251_1920x1080.jpg)
 </code></pre>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[历史九下课件]]></title>
+        <id>https://lztttt.github.io/blog/post/li-shi-jiu-xia-ke-jian/</id>
+        <link href="https://lztttt.github.io/blog/post/li-shi-jiu-xia-ke-jian/">
+        </link>
+        <updated>2020-11-07T01:41:57.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://wwa.lanzous.com/ih1qui51i5c" target="_blank">下载地址</a><br>
+<img src="https://lztttt.github.io/blog//post-images/1605185928646.png" alt="" loading="lazy"></p>
+<img src="https://s.aigei.com/src/img/gif/25/253b252fee564da9816b2bcfdab54274.gif?imageMogr2/auto-orient/thumbnail/!97x97r/gravity/Center/crop/97x97/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8aktGcsD07jenn8PqWbGDnWLK_M=" alt="show" />]]></content>
     </entry>
 </feed>
