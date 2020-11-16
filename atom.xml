@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
     <title>lzt的website</title>
-    <updated>2020-11-15T07:21:05.683Z</updated>
+    <updated>2020-11-16T11:13:46.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
@@ -26,30 +26,30 @@ MarkDown 全语法支持<br>
 针不戳<br>
 <a href="https://www.runoob.com/markdown/md-tutorial.html">学习MarkDown</a><br>
 高级用法</p>
-<p>1.标题类<br>
-# 标题1<br>
-## 标题2<br>
-### 标题3<br>
-#### 标题4<br>
-##### 标题5<br>
-###### 标题6<br>
-效果：</p>
-<h1 id="标题1">标题1</h1>
-<h2 id="标题2">标题2</h2>
-<h3 id="标题3">标题3</h3>
-<h4 id="标题4">标题4</h4>
-<h5 id="标题5">标题5</h5>
-<h6 id="标题6">标题6</h6>
-<p>2.插入图片or超链接</p>
-<pre><code>[超链接描述](https://lztttt.github.io/blog/)
+<pre><code>1.标题类
+# 标题1
+## 标题2
+### 标题3
+#### 标题4
+##### 标题5
+###### 标题6
+
+
+2.插入图片or超链接
+
+[超链接描述](https://lztttt.github.io/blog/)
+
+![图片描述](https://lztttt.github.io/Media-files/BurrowingOwl_ZH-CN7730300251_1920x1080.jpg)
+
+[超链接描述](https://lztttt.github.io/blog/)
+
+3.套用视频及音频
+&lt;video id=&quot;video&quot; controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;https://lztttt.github.io/Media-files/xbd%20(2).mp4&quot;&gt;
+
+&lt;audio id=&quot;audio&quot; controls=&quot;&quot; preload=&quot;none&quot;&gt;
+        &lt;source id=&quot;mp3&quot; src=&quot;zwjs.mp3&quot;&gt;
+        &lt;/audio&gt;
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://lztttt.github.io/Media-files/BurrowingOwl_ZH-CN7730300251_1920x1080.jpg" alt="图片描述" loading="lazy"></figure>
-<p><a href="https://lztttt.github.io/blog/">超链接描述</a></p>
-<p>3.套用视频及音频<br>
-<video id="video" controls="" preload="none" poster="https://lztttt.github.io/Media-files/xbd%20(2).mp4"></p>
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="zwjs.mp3">
-      </audio>
 ]]></content>
     </entry>
     <entry>
