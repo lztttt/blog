@@ -1,49 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lztttt.github.io/blog/</id>
-    <title>lzt的website</title>
-    <updated>2020-11-26T12:09:32.063Z</updated>
+    <title>lzt！</title>
+    <updated>2020-11-26T13:40:25.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lztttt.github.io/blog/"/>
     <link rel="self" href="https://lztttt.github.io/blog/atom.xml"/>
-    <subtitle>lzt</subtitle>
+    <subtitle>lzt的网站</subtitle>
     <logo>https://lztttt.github.io/blog/images/avatar.png</logo>
     <icon>https://lztttt.github.io/blog/favicon.ico</icon>
-    <rights>All rights reserved 2020, lzt的website</rights>
+    <rights>All rights reserved 2020, lzt！</rights>
     <entry>
-        <title type="html"><![CDATA[评论测试]]></title>
-        <id>https://lztttt.github.io/blog/post/ce-shi/</id>
-        <link href="https://lztttt.github.io/blog/post/ce-shi/">
+        <title type="html"><![CDATA[(･ω･)ﾉ]]></title>
+        <id>https://lztttt.github.io/blog/post/ono/</id>
+        <link href="https://lztttt.github.io/blog/post/ono/">
         </link>
-        <updated>2020-11-14T03:10:37.000Z</updated>
-        <content type="html"><![CDATA[<p>Valine<br>
-快速<br>
-安全<br>
-Emoji<br>
-无后端实现<br>
-MarkDown 全语法支持<br>
-轻量易用<br>
-针不戳<br>
-<a href="https://www.runoob.com/markdown/md-tutorial.html">学习MarkDown</a><br>
-高级用法</p>
-<pre><code>1.标题类
-# 标题1
-## 标题2
-### 标题3
-#### 标题4
-##### 标题5
-###### 标题6
-
-
-2.插入图片or超链接
-
-[超链接描述](https://lztttt.github.io/blog/)
-
-![图片描述](https://lztttt.github.io/Media-files/BurrowingOwl_ZH-CN7730300251_1920x1080.jpg)
-</code></pre>
-</svg>
- <embed src="http://www.w3.org/2000/svg" width="300" height="100"         type="image/svg+xml" />
-]]></content>
+        <updated>2020-11-16T11:48:40.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://lztttt.github.io/blog//post-images/1606394824581.svg" alt="" loading="lazy"><audio id="audio" controls="" preload="none"><br>
+<source id="mp3" src="https://lztttt.github.io/Media-files/zwjs.mp3"><br>
+</audio></p>
+<video id="video"  controls="" preload="none" poster="https://lztttt.github.io/Media-files/xbd%20(2).mp4">  
+<source id="mp4" src="https://lztttt.github.io/Media-files/xbd%20(2).mp4" type="video/mp4">
+</video>
+ <iframe src="https://raw.githubusercontent.com/lztttt/Media-files/gh-pages/lishi/page1.svg" width="300" height="100"></iframe>
+ <iframe src="https://raw.githubusercontent.com/lztttt/Media-files/gh-pages/lishi/page1.svg" width="300" height="100"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[历史九下课件]]></title>
@@ -53,6 +33,26 @@ MarkDown 全语法支持<br>
         <updated>2020-11-07T01:41:57.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://wwa.lanzous.com/ih1qui51i5c" target="_blank">下载地址</a><br>
 <img src="https://lztttt.github.io/blog//post-images/1605185928646.png" alt="" loading="lazy"></p>
-<img src="https://s.aigei.com/src/img/gif/25/253b252fee564da9816b2bcfdab54274.gif?imageMogr2/auto-orient/thumbnail/!97x97r/gravity/Center/crop/97x97/quality/85/&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:8aktGcsD07jenn8PqWbGDnWLK_M=" alt="show" />]]></content>
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page1.svg" width="800" height="600"/>
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page2.svg" width="800" height="600"/> 
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page3.svg" width="800" height="600"/>
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page4.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page5.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page6.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page7.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page8.svg" width="800" height="600"/>
+   <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page9.svg" width="800" height="600"/>
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page10.svg" width="800" height="600"/>
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page11.svg" width="800" height="600"/>
+   <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page12.svg" width="800" height="600"/>
+<img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page13.svg" width="800" height="600"/> 
+<img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page14.svg" width="800" height="600"/>
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page15.svg" width="800" height="600"/>
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page16.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page17.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page18.svg" width="800" height="600"/> 
+  <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page19.svg" width="800" height="600"/>
+   <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page20.svg" width="800" height="600"/>
+ <img src="https://raw.githubusercontent.com/lztttt/Media-files/6de3848558a973abd0309ac76ee0c8fa3b49742f/lishi/page21.svg" width="800" height="600"/>]]></content>
     </entry>
 </feed>
